@@ -1,4 +1,4 @@
 hello good morning
-<<<<<<< HEAD
+namaskara
 i am second branch
->>>>>>> f4c8589aa2939d2b7e5ebbe6e6d257819472c763
+
